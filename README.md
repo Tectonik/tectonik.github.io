@@ -1,1 +1,2 @@
-tectonik.github.io
+# SoftUni-Blog
+Blog exercise repo
